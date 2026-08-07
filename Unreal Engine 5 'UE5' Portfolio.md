@@ -19,8 +19,7 @@ Welcome to my portfolio. I am a creative and detail-oriented 3D artist with a Di
 
 * **3D & Game Development:** Unreal Engine 5, 3ds Max, Blender, 3D Modeling, Texturing, Lighting, Animation, Asset Integration
 * **Video Editing & Post-Production:** Adobe Premiere Pro, After Effects, DaVinci Resolve, Motion Graphics, Color Correction
-* **Scripting & Development:** Python, Visual Studio Code
-
+* **Other Softwares:** 3ds Max, Autocad, Blender, Photoshop, After Affects, Premiere Pro
 ## 💼 Experience & Education
 
 * **Freelance Video Editor & Affiliate Marketer** _(Jan 2025 – Present)_
