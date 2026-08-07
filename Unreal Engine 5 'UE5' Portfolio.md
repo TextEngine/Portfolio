@@ -18,6 +18,6 @@ Welcome to my UE5 showcase. I specialize in building immersive environments, dyn
 ### 🛠️ Technical Skills
 * **Engine:** Unreal Engine 5 (Lumen, Nanite, Sequencer)
 * **Disciplines:** Environment Art, Cinematic Rendering, Lighting, Rigging/Animation
-* **Other Tools:** Python, Visual Studio Code
+* **Other Tools:** Photoshop, After Affects, Premiere Pro
 
-📫 **Let's Connect:** [Insert Your LinkedIn Link Here] | [Insert Your Email Here]
+📫 **Let's Connect:** [https://www.linkedin.com/in/mohd-sahil-7694b5418/] | [mohd.sahil58777@gmail.com]
