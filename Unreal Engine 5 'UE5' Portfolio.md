@@ -19,6 +19,7 @@ Welcome to my portfolio. I am a creative and detail-oriented 3D artist with a Di
 
 * **3D & Game Development:** Unreal Engine 5, 3ds Max, Blender, 3D Modeling, Texturing, Lighting, Animation, Asset Integration
 * **Video Editing & Post-Production:** Adobe Premiere Pro, After Effects, DaVinci Resolve, Motion Graphics, Color Correction
+* **Other Skills:** 3D Architect, Interior Designer, Exterior Designer, Elevation
 * **Other Softwares:** Autocad, Maya, Houdini
 ## 💼 Experience & Education
 
