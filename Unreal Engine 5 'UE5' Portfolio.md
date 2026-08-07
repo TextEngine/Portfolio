@@ -1,6 +1,6 @@
-# 🎮 Unreal Engine 5 Portfolio
+# 🎮 Mohd Sahil | 3D Designer & Unreal Engine Artist
 
-Welcome to my UE5 showcase. I specialize in building immersive environments, dynamic cinematics, and character workflows. Below is a curated collection of my real-time projects. 
+Welcome to my portfolio. I am a creative and detail-oriented 3D artist with a Diploma in Unreal Engine and 3DS MAX from Arena Animation. I specialize in 3D modeling, environment design, immersive lighting, and visual storytelling. Below is a curated collection of my real-time projects and cinematic sequences.
 
 > 💡 _**Tip:** Click on any thumbnail to watch the full video on YouTube._
 
@@ -15,9 +15,22 @@ Welcome to my UE5 showcase. I specialize in building immersive environments, dyn
 
 ---
 
-### 🛠️ Technical Skills
-* **Engine:** Unreal Engine 5 (Lumen, Nanite, Sequencer)
-* **Disciplines:** Environment Art, Cinematic Rendering, Lighting, Rigging/Animation
-* **Other Tools:** Photoshop, After Affects, Premiere Pro
+## 🛠️ Technical Skills
 
-📫 **Let's Connect:** [https://www.linkedin.com/in/mohd-sahil-7694b5418/] | [mohd.sahil58777@gmail.com]
+* **3D & Game Development:** Unreal Engine 5, 3ds Max, Blender, 3D Modeling, Texturing, Lighting, Animation, Asset Integration
+* **Video Editing & Post-Production:** Adobe Premiere Pro, After Effects, DaVinci Resolve, Motion Graphics, Color Correction
+* **Scripting & Development:** Python, Visual Studio Code
+
+## 💼 Experience & Education
+
+* **Freelance Video Editor & Affiliate Marketer** _(Jan 2025 – Present)_
+  * Delivering high-quality visual storytelling, color correction, and audio enhancement for promotional and short-form content. 
+* **Diploma in Unreal Engine & 3DS MAX** _(2025)_
+  * Arena Animation, Preet Vihar, Delhi
+
+---
+
+📫 **Let's Connect:** 
+* **LinkedIn:** [Mohd Sahil](https://www.linkedin.com/in/mohd-sahil-7694b5418/)
+* **Email:** [mohd.sahil58777@gmail.com](mailto:mohd.sahil58777@gmail.com)
+* **GitHub:** [github.com/TextEngine](https://github.com/TextEngine)
